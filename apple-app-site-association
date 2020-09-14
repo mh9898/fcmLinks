@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "E2RB4WW6S2.mh.FCMTest",
+				"paths": [ "*"]
+			}
+		]
+	}
+}

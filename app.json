@@ -1,0 +1,7 @@
+{
+	"name": "Single Board Computers",
+	"description": "A barebones ingle Board Computers app",
+	"repository": "https://git.heroku.com/fcm-links.git",
+	"logo": "https://fcm-links.herokuapp.com/logo.png",
+	"keywords": ["SBC", "universal links"]
+}
